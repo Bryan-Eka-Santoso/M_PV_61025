@@ -1,0 +1,14 @@
+C:\Users\master\source\repos\PV 20251\Database\Database\bin\Debug\Database.exe.config
+C:\Users\master\source\repos\PV 20251\Database\Database\bin\Debug\Database.exe
+C:\Users\master\source\repos\PV 20251\Database\Database\bin\Debug\Database.pdb
+C:\Users\master\source\repos\PV 20251\Database\Database\bin\Debug\MySql.Data.dll
+C:\Users\master\source\repos\PV 20251\Database\Database\bin\Debug\MySql.Data.xml
+C:\Users\master\source\repos\PV 20251\Database\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\PV 20251\Database\Database\obj\Debug\Database.Form1.resources
+C:\Users\master\source\repos\PV 20251\Database\Database\obj\Debug\Database.Properties.Resources.resources
+C:\Users\master\source\repos\PV 20251\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+C:\Users\master\source\repos\PV 20251\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\PV 20251\Database\Database\obj\Debug\Database.csproj.Up2Date
+C:\Users\master\source\repos\PV 20251\Database\Database\obj\Debug\Database.exe
+C:\Users\master\source\repos\PV 20251\Database\Database\obj\Debug\Database.pdb
+C:\Users\master\source\repos\PV 20251\Database\Database\obj\Debug\Database.exe.config
